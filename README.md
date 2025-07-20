@@ -11,12 +11,12 @@
 ---
 
 ## 🧰 Tabla de Aplicaciones
-
+```
 | 🧾 Nombre de la App             | 💡 Funcionalidad                                    | 🎯 Motivo de Creación                                      | 📦 Tamaño Aprox. | 🔗 Detalles |
 |--------------------------------|-----------------------------------------------------|------------------------------------------------------------|------------------|-------------|
 | **Compresor de Videos MP4**    | Reduce el peso de archivos `.mp4` con distintos niveles de calidad visual | Recuperar espacio, facilitar envíos y subir a plataformas | ~71 MB           | [Ver proyecto](./compresor-videos-mp4/) |
 | **(Futura App)** Compresor PDF | Reduce el tamaño de archivos PDF (alta, media, baja) para facilitar envíos por correo o WhatsApp | Alternativa offline a iLovePDF, rápida y portable         | próximamente     | 🔧 En desarrollo |
-
+```
 ---
 
 ## 📌 Características Comunes
