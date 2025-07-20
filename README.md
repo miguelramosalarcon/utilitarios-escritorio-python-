@@ -1,6 +1,3 @@
-# utilitarios-escritorio-python-
-🎯 Este repositorio agrupa herramientas de escritorio desarrolladas en Python por **Miguel Ramos Alarcón**, orientadas a automatizar procesos comunes como la compresión de archivos, descarga de contenido y otras tareas técnicas.
-
 <p align="center">
   <img src="logo_miguel.png" alt="Logo de Miguel Ramos" width="180">
 </p>
