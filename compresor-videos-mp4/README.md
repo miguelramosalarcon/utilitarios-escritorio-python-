@@ -68,10 +68,10 @@ Los archivos comprimidos se guardan automáticamente en la carpeta, la cual sea 
 /videos-comprimidos
 ```
 
-Descargar ejecutable
+### Descargar ejecutable
 👉 Puedes descargar el .exe ya listo desde la sección Releases del repositorio o directamente desde esta carpeta.
 
-📬 Contáctame
+### 📬 Contáctame
 Desarrollado con 💙 por Miguel Ramos Alarcón
 📌 [LinkedIn](https://pe.linkedin.com/in/miguel-alonso-ramos-alarcon)  
 📁 [GitHub](https://github.com/miguelramosalarcon)  
