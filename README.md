@@ -54,6 +54,7 @@ Programador Web, SEO, Soporte TI.
 📌 [LinkedIn](https://pe.linkedin.com/in/miguel-alonso-ramos-alarcon)  
 📁 [GitHub](https://github.com/miguelramosalarcon)  
 
+> [!IMPORTANT]
 > _"En medio de la adversidad, reside la oportunidad" — Albert Einstein_
 
 ---
