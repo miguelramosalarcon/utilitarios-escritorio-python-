@@ -42,11 +42,15 @@ compresor-videos-mp4/
 │
 ├── Compresor_MP4.exe # Ejecutable final
 ├── compresor_mp4.py # Código fuente (GUI + lógica)
+├── compresor_mp4.spec (Archivo de configuración para PyInstaller)
 ├── ffmpeg.exe # Motor de compresión
 ├── logo_miguel.ico # Ícono personalizado
 ├── README.md # Este archivo
 └── screenshots/ # Capturas para mostrar uso
 ```
+🔗 **Descargar FFmpeg:** [https://ffmpeg.org/download.html](https://ffmpeg.org/download.html)  
+O versión precompilada recomendada (Windows):  
+👉 [https://www.gyan.dev/ffmpeg/builds/](https://www.gyan.dev/ffmpeg/builds/)
 
 ## ✨ Fragmentos destacados del código
 
