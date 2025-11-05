@@ -23,7 +23,7 @@ Una herramienta de escritorio moderna, intuitiva y ligera para **comprimir archi
 
 | Interfaz principal                             | Modal de compresión en progreso                |
 |-----------------------------------------------|-----------------------------------------------|
-| ![UI principal](./screenshots/ui_main.png)    | ![Modal](./screenshots/ui_modal.png)          |
+| ![UI principal](./screenshots/compresor-mp4.jpg)    | ![Modal](./screenshots/modal-ui.jpg)          |
 
 ---
 
