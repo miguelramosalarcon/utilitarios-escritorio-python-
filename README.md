@@ -15,7 +15,7 @@
 | 🧾 Nombre de la App             | 💡 Funcionalidad                                    | 🎯 Motivo de Creación                                      | 📦 Tamaño Aprox. | 🔗 Detalles |
 |--------------------------------|-----------------------------------------------------|------------------------------------------------------------|------------------|-------------|
 | **Compresor de Videos MP4**    | Reduce el peso de archivos `.mp4` con distintos niveles de calidad visual | Recuperar espacio, facilitar envíos y subir a plataformas | ~71 MB           | [Ver proyecto](./compresor-videos-mp4/) |
-| **(Futura App)** Compresor PDF | Reduce el tamaño de archivos PDF (alta, media, baja) para facilitar envíos por correo o WhatsApp | Alternativa offline a iLovePDF, rápida y portable         | próximamente     | 🔧 En desarrollo |
+| **Compresor PDF** | Reduce el tamaño de archivos PDF (alta, media, baja) para facilitar envíos por correo o WhatsApp | Alternativa offline a iLovePDF, rápida y portable         | ~9 MB      | [Ver proyecto](./compresor-pdf/)  |
 
 ---
 
@@ -37,13 +37,19 @@ root/
 ├── compresor-videos-mp4/ # App funcional de compresión de videos
 │ ├── Compresor_MP4.exe
 │ ├── compresor_mp4.py
-│ └── ...
+│ ├── compresor_mp4.spec
+│ ├── ffmpeg.exe
+│ └── README.md
 │
-├── compresor-pdf/ # App en desarrollo
+├── compresor-pdf/ # Nueva app funcional de compresión PDF
+│ ├── Compresor_PDF.exe
+│ ├── compresor-pdf.py
+│ ├── compresor-pdf.spec
+│ ├── gswin64c.exe
+│ └── README.md
 │
 ├── README.md # Este archivo (raíz)
-└── logo_miguel.png # Tu logo personal
-```
+└── logo_miguel.png # Logo personal MRStudio
 ---
 
 ## ✍️ Sobre el autor
