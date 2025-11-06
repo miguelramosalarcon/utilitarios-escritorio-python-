@@ -23,11 +23,12 @@
 ## 📌 Características Comunes
 
 - ✅ **100% portables** (no requieren instalación)
-- 🧠 Interfaz intuitiva y moderna (Tkinter)
-- ⚙️ Potenciadas con **FFmpeg**, **PyMuPDF**, u otras libs potentes
-- 🧾 Diseño corporativo y branding personalizado
-- 📂 Incluyen acceso rápido a carpetas de salida
-- 🔒 Diseñadas pensando en el **usuario final no técnico**
+- 🧠 Interfaz intuitiva y moderna (**Tkinter**, estilo corporativo)
+- ⚙️ Potenciadas con **FFmpeg**, **Ghostscript** y **Python puro**
+- 🧾 Diseño coherente con branding **MRStudio**
+- 📂 Acceso rápido a carpetas o enlaces generados
+- 🔒 Pensadas para el **usuario final no técnico**
+- 💬 Interfaz en español, clara y accesible
 
 ---
 
