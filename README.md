@@ -17,6 +17,7 @@
 | **Compresor de Videos MP4**    | Reduce el peso de archivos `.mp4` con distintos niveles de calidad visual | Recuperar espacio, facilitar envíos y subir a plataformas | ~71 MB           | [Ver proyecto](./compresor-videos-mp4/) |
 | **Compresor PDF** | Reduce el tamaño de archivos PDF (alta, media, baja) para facilitar envíos por correo o WhatsApp | Alternativa offline a iLovePDF, rápida y portable         | ~9 MB      | [Ver proyecto](./compresor-pdf/)  |
 | **WA Link Builder**            | Genera enlaces personalizados de WhatsApp (`wa.me`) con texto y parámetros UTM (source, medium, campaign, etc.) | Facilitar la creación de enlaces rastreables para campañas y atención al cliente | ~9 MB           | [Ver proyecto](./whatsapp-link-builder/) |
+| **Conversor de imágenes**            | Convierte imágenes a formatos web modernos (WebP, AVIF, PNG, JPG) con control de calidad ajustable | Optimizar imágenes para web, mejorar Core Web Vitals y reducir peso sin pérdida visual | ~15 MB           | [Ver proyecto](./conversor-imagenes/) |
 
 ---
 
