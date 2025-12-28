@@ -16,17 +16,19 @@
 |--------------------------------|-----------------------------------------------------|------------------------------------------------------------|------------------|-------------|
 | **Compresor de Videos MP4**    | Reduce el peso de archivos `.mp4` con distintos niveles de calidad visual | Recuperar espacio, facilitar envíos y subir a plataformas | ~71 MB           | [Ver proyecto](./compresor-videos-mp4/) |
 | **Compresor PDF** | Reduce el tamaño de archivos PDF (alta, media, baja) para facilitar envíos por correo o WhatsApp | Alternativa offline a iLovePDF, rápida y portable         | ~9 MB      | [Ver proyecto](./compresor-pdf/)  |
+| **WA Link Builder**            | Genera enlaces personalizados de WhatsApp (`wa.me`) con texto y parámetros UTM (source, medium, campaign, etc.) | Facilitar la creación de enlaces rastreables para campañas y atención al cliente | ~9 MB           | [Ver proyecto](./whatsapp-link-builder/) |
 
 ---
 
 ## 📌 Características Comunes
 
 - ✅ **100% portables** (no requieren instalación)
-- 🧠 Interfaz intuitiva y moderna (Tkinter)
-- ⚙️ Potenciadas con **FFmpeg**, **PyMuPDF**, u otras libs potentes
-- 🧾 Diseño corporativo y branding personalizado
-- 📂 Incluyen acceso rápido a carpetas de salida
-- 🔒 Diseñadas pensando en el **usuario final no técnico**
+- 🧠 Interfaz intuitiva y moderna (**Tkinter**, estilo corporativo)
+- ⚙️ Potenciadas con **FFmpeg**, **Ghostscript** y **Python puro**
+- 🧾 Diseño coherente con branding **MRStudio**
+- 📂 Acceso rápido a carpetas o enlaces generados
+- 🔒 Pensadas para el **usuario final no técnico**
+- 💬 Interfaz en español, clara y accesible
 
 ---
 
@@ -46,6 +48,13 @@ root/
 │ ├── compresor-pdf.py
 │ ├── compresor-pdf.spec
 │ ├── gswin64c.exe
+│ └── README.md
+│
+├── wa-link-builder/
+│ ├── WA_Link_Builder.exe
+│ ├── wa_link_builder.py
+│ ├── wa_link_builder.spec
+│ ├── logo_miguel.ico
 │ └── README.md
 │
 ├── README.md # Este archivo (raíz)
