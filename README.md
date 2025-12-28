@@ -37,31 +37,37 @@
 ```
 root/
 │
-├── compresor-videos-mp4/ # App funcional de compresión de videos
-│ ├── Compresor_MP4.exe
-│ ├── compresor_mp4.py
-│ ├── compresor_mp4.spec
-│ ├── ffmpeg.exe
-│ └── README.md
+├── compresor-videos-mp4/         # App funcional de compresión de videos
+│   ├── Compresor_MP4.exe
+│   ├── compresor_mp4.py
+│   ├── compresor_mp4.spec
+│   ├── ffmpeg.exe
+│   └── README.md
 │
-├── compresor-pdf/ # Nueva app funcional de compresión PDF
-│ ├── Compresor_PDF.exe
-│ ├── compresor-pdf.py
-│ ├── compresor-pdf.spec
-│ ├── gswin64c.exe
-│ └── README.md
+├── compresor-pdf/                # App funcional de compresión PDF
+│   ├── Compresor_PDF.exe
+│   ├── compresor-pdf.py
+│   ├── compresor-pdf.spec
+│   ├── gswin64c.exe
+│   └── README.md
 │
-├── wa-link-builder/
-│ ├── WA_Link_Builder.exe
-│ ├── wa_link_builder.py
-│ ├── wa_link_builder.spec
-│ ├── logo_miguel.ico
-│ └── README.md
+├── whatsapp-link-builder/        # Generador de enlaces WhatsApp con UTMs
+│   ├── WA_Link_Builder.exe
+│   ├── wa_link_builder.py
+│   ├── wa_link_builder.spec
+│   ├── logo_miguel.ico
+│   └── README.md
 │
-├── README.md # Este archivo (raíz)
-└── logo_miguel.png # Logo personal MRStudio
+├── conversor-imagenes/           # Conversor a formatos web modernos (NUEVO)
+│   ├── Conversor_imagenes.exe
+│   ├── conversor_imagenes.py
+│   ├── requirements.txt
+│   └── README.md
+│
+├── README.md                     # Este archivo (raíz)
+└── logo_miguel.png               # Logo personal MRStudio
 ---
-
+```
 ## ✍️ Sobre el autor
 
 **Miguel Ramos Alarcón**  
